@@ -1,16 +1,9 @@
 He/Him
 
+### Discord Name: stradivariusviolin
 
-**__Developer of Ling Ling__**
+### Ling Ling Bot
+https://discord.gg/gNfPwa8
 
-**Support Server** https://discord.gg/gNfPwa8
-
-**Good DM Etiquette** https://nohello.com
-
-https://dontasktoask.com
-
-
-'27 Northeastern University
-
-
-"The human inability to follow instructions is breathtaking" - CGP Grey
+### SkyBlock Plugin
+https://github.com/Poseidon-I/HypixelSBInVanillaMC
