@@ -6,4 +6,4 @@ He/Him
 https://discord.gg/gNfPwa8
 
 ### SkyBlock Plugin
-https://github.com/Poseidon-I/HypixelSBInVanillaMC
+https://github.com/strad-dev/HypixelSBInVanillaMC
